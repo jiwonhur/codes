@@ -1,0 +1,212 @@
+p
+    {
+      font-family: Arial;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  
+    .video-title
+    {
+      font-weight: bold;
+      font-size: 18px;
+      width: 300px;
+      line-height: 24px;
+      margin-bottom: 5px;
+  
+    }
+  
+    .video-stats
+    {
+      font-size: 14px;
+      color: rgb(96, 96, 96);
+      margin-bottom: 20px;
+    }
+  
+    .video-author
+    {
+      font-size: 14px;
+      color: rgb(96, 96, 96);
+      margin-bottom: 20px;
+    }
+  
+    .video-description
+    {
+      font-size: 14px;
+      color: rgb(96, 96, 96);
+      width: 280px;
+      line-height: 22px;
+      margin-bottom: 100px;
+  
+    }
+  
+    .apple-text
+    {
+      margin-bottom: 50px;
+      font-size: 14px;
+      background-color: rgb(227, 65, 64);
+      color: white;
+      text-align: center;
+      padding-top: 15px;
+      padding-bottom: 15px;
+  
+    }
+  
+    .shop-link
+    {
+      cursor: pointer;
+    }
+  
+    .shop-link:hover
+    {
+      text-decoration: underline;
+    }
+  
+    .tahoma-font
+    {
+      font-family: Tahoma;
+      margin-bottom: 50px;
+    }
+  
+    .arial-font
+    {
+      font-size: 20px;
+      width: 250px;
+      font-weight: bold;
+      line-height: 25px;
+      margin-bottom: 50px;
+  
+    }
+  
+    .sale-end
+    {
+      color: red;
+      font-size: 16px;
+    }
+  
+    .exercise
+    {
+      font-family: Verdana;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .exercise-second
+    {
+      font-family: Verdana;
+      color: rgb(96, 96, 96);
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+  
+    .exercise-description
+    {
+      font-family: Verdana;
+      width: 300px;
+      margin-bottom: 15px;
+  
+    }
+  
+    .getStarted-button
+    {
+      background-color: green;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin-bottom: 50px;
+    }
+  
+    .shop
+    {
+      font-weight: bold;
+      font-size: 25px;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  
+    .shop-second
+    {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  
+    .shop-third
+    {
+      color: rgb(123, 123, 231);
+      text-align: center;
+      margin-bottom: 50px;
+    }
+  
+    .stocks
+    {
+      color: grey;
+      line-height: 10px;
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+  
+    .stocks-second
+    {
+      font-size: 14px;
+      margin-bottom: 9px;
+    }
+  
+    .stocks-third
+    {
+      font-size: 14px;
+      color: grey;
+  
+      margin-bottom: 50px;
+  
+    }
+  
+    .num-bold
+    {
+      font-size: 20px;
+      color: black;
+      padding-right: 5px;
+    }
+  
+    .color-green
+    {
+      color: green;
+    }
+  
+    .color-red
+    {
+      color: red;
+    }
+  
+    .codeCamp
+    {
+      font-weight: bold;
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+  
+    .codeCamp-grey
+    {
+      color: grey;
+      font-weight: normal;
+    }
+  
+    .codeCamp-description
+    {
+      width: 500px;
+      font-size: 14px;
+      margin-bottom: 15px;
+  
+    }
+  
+    .codeCamp-second-description
+    {
+      font-size: 14px;
+  
+    }
+  
+    .blue-at
+    {
+      color: rgb(110, 110, 238);
+    }
