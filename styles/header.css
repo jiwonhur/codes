@@ -9,22 +9,105 @@
 
 .left-section
 {
-    background-color: lightblue;
-    width: 150px;
+    display: flex;
+    align-items: center;
+}
+.hamburger
+{
+    height: 53px;
+    margin-left: 10px;
+    
+}
+.youtube-logo
+{
+    height: 42px;
 }
 
 .middle-section
 {
-    background-color: lightpink;
     flex: 1;
-    margin-left: 70px;
-    margin-right: 35px;
+    margin-left: 90px;
+    margin-right: 75px;
     max-width: 500px;
+    display: flex;
+    align-items: center;
 }
+.search-bar
+{
+    flex: 1;
+    height: 36px;
+    padding-left: 6px;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(211, 211, 211);
+    border-radius: 2px;
+    box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.04);
+    width: 0;
+}
+
+.search-bar::placeholder
+{
+    font-family: Roboto, Arial;
+    font-size: 16px;
+}
+.search-button
+{
+    height: 40px;
+    width: 62px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    background-color: rgb(248, 248, 248);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(211, 211, 211);
+    margin-left: -1px;
+    margin-right: 8px;
+}
+.search
+{
+    height: 37px;
+    margin-left: 2px;
+}
+.voice-button
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(248, 248, 248);
+}
+.voice
+{
+    height: 20px;
+    margin-top: 5px;
+}
+
 
 .right-section
 {
-    background-color: lightblue;
-    width: 200px;
+    width: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 45px;
+    flex-shrink: 0;
     
+}
+.create
+{
+    height: 21px;
+
+}
+
+.notification
+{
+    height: 20px;
+}
+
+.current-user-picture
+{
+    height: 32px;
+    border-radius: 16px;
 }
